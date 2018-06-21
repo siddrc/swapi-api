@@ -1,0 +1,19 @@
+{
+  "name": "sw-node-api",
+  "version": "1.0.0",
+  "description": "Star wars api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Roychoudhury <debu2in@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5",
+    "uuid": "^3.2.1"
+  },
+  "repository": "local"
+}
